@@ -1,0 +1,2 @@
+https://www.codementor.io/wapjude/creating-a-simple-rest-api-with-expressjs-in-5min-bbtmk51mq
+https://www.callicoder.com/node-js-express-mongodb-restful-crud-api-tutorial/
